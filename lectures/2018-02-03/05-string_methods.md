@@ -1,5 +1,15 @@
 # String Methods
 
++ [Syntax](#syntax)
++ [Frequently Used Methods](#frequently-used-methods)
+
+## Syntax
+```java
+int seventhLetter = "Hello World".charAt(6);
+```
+
+## Frequently Used Methods
+
 + `charAt(int index)`
 
   Returns the char value at the specified index.
