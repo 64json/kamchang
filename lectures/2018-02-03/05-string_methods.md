@@ -5,7 +5,7 @@
 
 ## Syntax
 ```java
-int seventhLetter = "Hello World".charAt(6);
+char seventhLetter = "Hello World".charAt(6);
 ```
 
 ## Frequently Used Methods
