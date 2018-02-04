@@ -22,4 +22,4 @@
 4. Click `Next`.
 5. Untick `Create project from template` and click `Next`.
 6. Input `Project name` and `Project location` and click `Finish`.
-7. Click `File`-`New`-`Java Class` and input the name in [CamelCase](https://en.wikipedia.org/wiki/Camel_case) (i.e. `Main`).
+7. Click `File`-`New`-`Java Class` and input the name in [CamelCase](https://en.wikipedia.org/wiki/Camel_case) starting with uppercase letter (i.e. `Main`).
