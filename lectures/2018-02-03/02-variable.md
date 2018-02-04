@@ -3,6 +3,7 @@
 + [Types](#types)
 + [Naming Convention](#naming-convention)
 + [Syntax](#syntax)
++ [Output to Console](#output-to-console)
 
 ## Types
 
@@ -44,3 +45,11 @@ The name of variables should (but not must) be in [CamelCase](https://en.wikiped
   ```java
   String nothing = null;
   ```
+
+## Output to Console
+
+```java
+System.out.println(/* expression goes here */);
+```
+
+As IntelliJ supports autocompletion, you can simply type `sout` + <kbd>Enter</kbd>.
