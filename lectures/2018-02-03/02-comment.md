@@ -19,6 +19,6 @@ This is a multi-line comment.
 This is a multi-line comment.
 This is a multi-line comment.
 */
+```
 
 Java compiler ignores everything between `/*` and `*/`.
-```
