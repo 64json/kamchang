@@ -1,9 +1,11 @@
-# Basic Setup
+# Run Configurations
 
 + [Add `main` Method](#add-main-method)
 + [Edit Run Configurations](#edit-run-configurations)
 
 ## Add `main` Method
+
+Inside the class file you added, type the following.
 
 ```java
 class Main /* 클래스 이름 */ {
