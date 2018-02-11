@@ -1,4 +1,4 @@
-# Shortcuts
+# IntelliJ Shortcuts
 
 In case of running IntelliJ on Windows, replace <kbd>Command</kbd> to <kbd>Control</kbd> and <kbd>Option</kbd> to <kbd>Alt</kbd>.
 
