@@ -12,8 +12,8 @@
 | - | - |
 | | **Java** |
 | [02/03 토](/lectures/2018-02-03) | Introduction to Java |
-| 02/07 수 | Introduction to Java |
-| 02/10 토 | Conditionals and Control Flow |
+| ~~02/07 수~~ | Introduction to Java |
+| [02/10 토](/lectures/2018-02-10) | Conditionals and Control Flow |
 | 02/14 수 | Conditionals and Control Flow |
 | 02/17 토 | Object-Oriented Java |
 | 02/21 수 | Object-Oriented Java |
