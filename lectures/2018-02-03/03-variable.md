@@ -8,12 +8,20 @@
 ## Types
 
 + Integer `int`
-  + i.e. `3` and `-7`
-  + `2147483647`
+  + i.e. `3`, `-7`, and `2147483647`
+  + Value range: -2<sup>31</sup> to 2<sup>31</sup> - 1
   
-+ Decimal `double` and `float`
-  + i.e. `-2.0` and `3.141592`
-  + `double` has more precision.
++ Integer `long`
+  + i.e. `3L`, `-7L`, and `9223372036854775807L`
+  + Value range: -2<sup>63</sup> to 2<sup>63</sup> - 1
+  
++ Decimal `double`
+  + i.e. `-2.0` and `3.141592653589793`
+  + 15 significant decimal digits
+  
++ Decimal `float`
+  + i.e. `-2.0f` and `3.141592f`
+  + 6-7 significant decimal digits
   
 + Boolean `boolean`
   + Either `true` or `false`
