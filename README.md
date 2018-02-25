@@ -16,22 +16,24 @@
 | [02/10 토](/lectures/2018-02-10) | Conditionals and Control Flow |
 | [02/14 수](/lectures/2018-02-14) | Conditionals and Control Flow |
 | [02/17 토](/lectures/2018-02-17) | Object-Oriented Java |
-| 02/21 수 | Object-Oriented Java |
-| 02/24 토 | Data Structures |
-| 02/28 수 | Data Structures |
+| ~~02/21 수~~ | Object-Oriented Java |
+| [02/24 토](/lectures/2018-02-24) | Object-Oriented Java |
+| 02/28 수 | Object-Oriented Java |
+| ~~03/03 토~~ | Data Structures |
+| 03/07 수 | Data Structures |
 | | **Algorithms** |
-| 03/03 토 | Greedy |
-| 03/07 수 | Greedy |
-| 03/10 토 | Depth-First Search |
-| 03/14 수 | Depth-First Search |
-| 03/17 토 | Breadth-First Search |
-| 03/21 수 | Breadth-First Search |
-| 03/24 토 | Dynamic Programming |
-| 03/28 수 | Dynamic Programming |
-| 03/31 토 | Divide and Conquer |
-| 04/04 수 | Divide and Conquer |
-| 04/07 토 | Shortest Path |
-| 04/11 수 | Shortest Path |
+| 03/10 토 | Greedy |
+| 03/14 수 | Greedy |
+| 03/17 토 | Depth-First Search |
+| 03/21 수 | Depth-First Search |
+| 03/24 토 | Breadth-First Search |
+| 03/28 수 | Breadth-First Search |
+| 03/31 토 | Dynamic Programming |
+| 04/04 수 | Dynamic Programming |
+| 04/07 토 | Divide and Conquer |
+| 04/11 수 | Divide and Conquer |
+| 04/14 토 | Shortest Path |
+| 04/17 수 | Shortest Path |
 | | **Practice** |
-| 04/14 토 | CodeQuest 2016 |
-| 04/17 수 | CodeQuest 2017 |
+| 04/18 목 | CodeQuest 2016 |
+| 04/19 금 | CodeQuest 2017 |
