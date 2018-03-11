@@ -20,11 +20,11 @@
 | [02/24 토](/lectures/2018-02-24) | Object-Oriented Java |
 | [02/28 수](/lectures/2018-02-28) | Object-Oriented Java |
 | ~~03/03 토~~ | Data Structures |
-| 03/07 수 | Data Structures |
+| ~~03/07 수~~ | Data Structures |
 | | **Algorithms** |
-| 03/10 토 | Greedy |
-| 03/14 수 | Greedy |
-| 03/17 토 | Depth-First Search |
+| [03/10 토](/lectures/2018-03-10) | Data Structures |
+| 03/14 수 | Data Structures |
+| 03/17 토 | Greedy |
 | 03/21 수 | Depth-First Search |
 | 03/24 토 | Breadth-First Search |
 | 03/28 수 | Breadth-First Search |
