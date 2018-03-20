@@ -96,7 +96,7 @@ class Relation {
 ####
 #### Solution without the starting value determined and that spits error when the value is not unique 
 ####
-``` java
+```java
 import java.util.Scanner;
 
 public class DFS {
