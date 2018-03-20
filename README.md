@@ -25,6 +25,7 @@
 | [03/10 토](/lectures/2018-03-10) | Call by Value / Exception |
 | ~~03/14 수~~ | ~~Data Structures~~ |
 | [03/17 토](/lectures/2018-03-17) | Greedy |
+| [03/18 일](/lectures/2018-03-18) | Depth-First Search |
 | 03/21 수 | Depth-First Search |
 | 03/24 토 | Breadth-First Search |
 | 03/28 수 | Breadth-First Search |
