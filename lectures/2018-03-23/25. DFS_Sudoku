@@ -1,4 +1,5 @@
-# 스도쿠 solving code using DFS
+#(still) Depth First Search Algorithm
+###스도쿠 solving code using DFS
 ```java
 import java.util.Scanner;
 
@@ -87,3 +88,4 @@ class Spot {
     }
 }
 ```
+# 긑
