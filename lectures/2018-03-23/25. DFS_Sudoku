@@ -1,5 +1,5 @@
 #(still) Depth First Search Algorithm
-###스도쿠 solving code using DFS
+##스도쿠 solving code using DFS
 ```java
 import java.util.Scanner;
 
