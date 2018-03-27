@@ -28,7 +28,7 @@
 | [03/18 일](/lectures/2018-03-18) | Depth-First Search |
 | [03/21 수](/lectures/2018-03-21) | Depth-First Search |
 | [03/23 금](/lectures/2018-03-23) | Depth-First Search |
-| [03/24 토](/lectures/2018-03-24/25-BFS.md) | Breadth-First Search |
+| [03/24 토](/lectures/2018-03-24) | Breadth-First Search |
 | 03/28 수 | Breadth-First Search |
 | 03/31 토 | Dynamic Programming |
 | 04/04 수 | Dynamic Programming |
