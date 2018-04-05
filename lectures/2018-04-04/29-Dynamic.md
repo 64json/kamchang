@@ -4,7 +4,7 @@
 #### below are Jason's 가르침 for the day
 # 옛다_김수진
 ## 1) Fibonacci Numbers
-#### 피보나치 수 구하기 ((피보나치 뭔지 모르면 좀 자살각;; ~~+흠좀무~~
+#### 피보나치 수 구하기 ((피보나치 뭔지 모르면 자살각~~+흠좀무~~
 ```java
 import java.util.scanner;
 
