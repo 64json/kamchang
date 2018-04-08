@@ -32,7 +32,7 @@
 | [03/28 수](/lectures/2018-03-28) | Breadth-First Search |
 | [03/31 토](/lectures/2018-03-31)| Depth-First Search|
 | [04/04 수](/lectures/2018-04-04) | Dynamic Programming |
-| [04/07 토](/lectures/2018-04-07 | Dynamic Programming |
+| [04/07 토](/lectures/2018-04-07) | Dynamic Programming |
 | 04/11 수 | Divide and Conquer |
 | 04/14 토 | Shortest Path |
 | 04/17 수 | Shortest Path |
